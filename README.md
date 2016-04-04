@@ -20,4 +20,4 @@ $ go get -u github.com/davelaursen/tranquil
 
 ## Examples
 
-To see Tranquil in action, check out the tests in the [Idealogue-go](https://github.com/davelausen/idealogue-go) project.
+To see Tranquil in action, check out the tests in the [Idealogue-go](https://github.com/davelaursen/idealogue-go) project.
